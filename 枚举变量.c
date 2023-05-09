@@ -4,7 +4,7 @@ enum Sex
     {
     	male,
     	female,
-    	secret
+    	secret//只能有上述三个变量
 	};
 int main()
 {
